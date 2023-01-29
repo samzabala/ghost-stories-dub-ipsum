@@ -23,7 +23,7 @@
 						class="button-is-small template-block-output-text-copy"
 						@click.prevent="copyShits"
 					>
-						{{ copied ? "O yea it's copied!" : 'Copy to clipboard.' }}
+						{{ copied ? "Oh yea, it's copied!" : 'Copy to clipboard' }}
 					</button>
 				</div>
 			</template>
@@ -152,7 +152,7 @@ export default {
 
 					if (paragraphWordCount + wordCount > ideal * 8) {
 						// console.info(`${paragraphWordCount} + ${wordCount} = ${paragraphWordCount + wordCount} is too now much k bye`);
-						if(reshuffle < 3 ){
+						if (reshuffle < 3) {
 							// find something shorter then, shit.
 							reshuffle++;
 							continue;

@@ -20,7 +20,7 @@ body {
 	accent-color: var(--c-primary);
 	// hyphens: auto;
 
-	font-size: 18px;
+	// font-size: 18px;
 	line-height: 1.875;
 
 	overflow-x: clip;
@@ -79,9 +79,10 @@ body {
 }
 
 small,
+*.small,
 sup,
 sub {
-	font-size: 0.875em;
+	font-size: 0.75em;
 }
 
 big {
@@ -131,7 +132,7 @@ h1 {
 	font-size: 3em;
 
 	@media (min-width: 768px) {
-		font-size: 4em;
+		font-size: 4.5em;
 		max-width: 16ch;
 	}
 }
@@ -139,6 +140,10 @@ h1 {
 h2 {
 	font-size: 2.25em;
 	color: var(--c-accent);
+
+	@media (min-width: 768px) {
+		font-size: 2.5em;
+	}
 }
 
 h3 {
@@ -179,7 +184,7 @@ li {
 
 blockquote {
 	font-family: var(--f-secondary);
-	font-size: 3em;
+	font-size: 2.875em;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;

@@ -1639,7 +1639,7 @@
 		"severity": 1
 	},
 	{
-		"text": "On my way to the store, I ran into Mr. Miyanoshita and we just got caught up talking about Jesus. His shirt! It's a sign!",
+		"text": "On my way to the store, I ran into Mr. Manshita and we just got caught up talking about Jesus. His shirt! It's a sign!",
 		"severity": 3
 	},
 	{
@@ -3159,7 +3159,7 @@
 		"severity": 3
 	},
 	{
-		"text": "Satsuki Miyanoshita, please report to the front office. Again! I repeat: Satsuki Miyanoshita, please come to the front office. You are on campus, aren't you?",
+		"text": "Satsuki Manshita, please report to the front office. Again! I repeat: Satsuki Manshita, please come to the front office. You are on campus, aren't you?",
 		"severity": 1
 	},
 	{
@@ -3183,7 +3183,7 @@
 		"severity": 3
 	},
 	{
-		"text": "Miyanoshita! I've been lookin' everywhere for you! You need to go to Central Hospital! And I've gotta take a dump! Your father's been in an accident and I'm about to have one!",
+		"text": "Manshita! I've been lookin' everywhere for you! You need to go to Central Hospital! And I've gotta take a dump! Your father's been in an accident and I'm about to have one!",
 		"severity": 0
 	},
 	{
@@ -3416,7 +3416,7 @@
 	},
 	{
 		"text": "I'm gonna do the shot put. Can you show me where to put the shot put shot shpot? Stop being hateful and tell me about this cursed nurse you fur bag.",
-		"severity": 1
+		"severity": 3
 	},
 	{
 		"text": "What's the matter? Did Oprah have a show? on d-d-denial or something? Tyra Banks…",
@@ -4968,7 +4968,7 @@
 	},
 	{
 		"text": "But it's an old building, and it's dangerous: Crack addicts, whores, Maybe Todd Bridges… on skates! What am I saying? You can't go in there!",
-		"severity": 1
+		"severity": 2
 	},
 	{
 		"text": "How are we going to break this to Illich?",
@@ -5180,7 +5180,7 @@
 	},
 	{
 		"text": "You did this? Well, then where is everybody? Where's my little retarded brother? He's here. Trapped. With the other poor bastards.",
-		"severity": 1
+		"severity": 3
 	},
 	{
 		"text": "Against my better judgment, I'll go with you. No you save yourself. And I'm kinda lonely. You shouldn't get too close. Okay. You can change your mind if you want to.",
@@ -5435,7 +5435,7 @@
 		"severity": 1
 	},
 	{
-		"text": "I've seen your kind here before, Jew. Hello, I'm Reiichirou Miyanoshita's daughter. Oh, the ex-lesbian! I haven't seen you since that funeral when your little retarded brother cried the whole time!",
+		"text": "I've seen your kind here before, Jew. Hello, I'm Reiichirou Manshita's daughter. Oh, the ex-lesbian! I haven't seen you since that funeral when your little retarded brother cried the whole time!",
 		"severity": 3
 	},
 	{
@@ -5707,7 +5707,11 @@
 		"severity": 0
 	},
 	{
-		"text": "Wow, I feel just like Christian Slater in Pump Up The Volume. Oh, remember when Christian Slater had a career?",
+		"text": "Wow, I feel just like Christian Slater in Pump Up The Volume.",
+		"severity": 0
+	},
+	{
+		"text": "Oh, remember when Christian Slater had a career?",
 		"severity": 0
 	},
 	{
@@ -5863,7 +5867,7 @@
 		"severity": 1
 	},
 	{
-		"text": "This is Satsuki Miyanoshita with this late-breaking news update. Homeroom teacher Mr. Sakata has herpes.",
+		"text": "This is Satsuki Manshita with this late-breaking news update. Homeroom teacher Mr. Sakata has herpes.",
 		"severity": 2
 	},
 	{
@@ -6167,7 +6171,7 @@
 		"severity": 1
 	},
 	{
-		"text": "My cousin has coiffed some of the world's biggest Christian celebrities: Kathy Lee, Gifford Patricia Heaton, and Mel Closest-to-the-Lap-of-Our-Lord-Jesus-Christ Gibson!",
+		"text": "My cousin has coiffed some of the world's biggest Christian celebrities: Kathy Lee Gifford, Patricia Heaton, and Mel Closest-to-the-Lap-of-Our-Lord-Jesus-Christ Gibson!",
 		"severity": 3
 	},
 	{

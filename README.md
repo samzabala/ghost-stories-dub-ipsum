@@ -57,8 +57,17 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Version Logs
 
+1.0.2
+
+-   Slightly more Christian Slater slander.
+-   Why did i blow up the font size? o ya coz im blind
+-   butts
+
 1.0.1
-- Made it have more chances of finding other sentences at the very end when it can fit a bit more but not too much
-- Also ran Grammarly on my scrapes because I found some typos but then I realized im too lazy to fix it now, so there's probably more grammatical errors I haven't spotted but why do you care? Me I'm just a grammar nazi sometimes but not laging always.
+
+-   Made it have more chances of finding other sentences at the very end when it can fit a bit more but not too much
+-   Also ran Grammarly on my scrapes because I found some typos but then I realized im too lazy to fix it now, so there's probably more grammatical errors I haven't spotted but why do you care? Me I'm just a grammar dick sometimes but not laging always.
+
 1.0
+
 -   It born.

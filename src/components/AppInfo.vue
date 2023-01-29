@@ -4,9 +4,7 @@
 			<img alt="Go get me my coffee be my bitch logo" src="./../assets/my-bitch.gif" />
 			<h2 v-if="heading" v-html="heading"></h2>
 			<div v-if="description" v-html="description"></div>
-			<p v-if="disclaimer" class="disclaimer">
-				<small v-html="disclaimer"></small>
-			</p>
+			<p v-if="disclaimer" class="disclaimer small" v-html="disclaimer"></p>
 			<hr />
 			<h6 class="mine-bitch">
 				built by <a href="http://samzabala.com" target="_blank">Sam Zabala</a>.
