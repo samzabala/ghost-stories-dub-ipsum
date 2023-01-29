@@ -8,7 +8,9 @@
 				<small v-html="disclaimer"></small>
 			</p>
 			<hr />
-			<h6 class="mine-bitch">built by <a href="http://samzabala.com" target="_blank">Sam Zabala</a>.</h6>
+			<h6 class="mine-bitch">
+				built by <a href="http://samzabala.com" target="_blank">Sam Zabala</a>.
+			</h6>
 			<div class="info-icons">
 				<a class="social" :href="githubUrl" target="_blank" title="View on Github and shit">
 					<svg

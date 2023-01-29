@@ -125,6 +125,7 @@ export default {
 
 				const ideal = 15;
 				let shortCount = 0;
+				let reshuffle = 0;
 
 				let j = 0;
 				while (j < length) {
@@ -151,8 +152,14 @@ export default {
 
 					if (paragraphWordCount + wordCount > ideal * 8) {
 						// console.info(`${paragraphWordCount} + ${wordCount} = ${paragraphWordCount + wordCount} is too now much k bye`);
-						j = length;
-						break;
+						if(reshuffle < 3 ){
+							// find something shorter then, shit.
+							reshuffle++;
+							continue;
+						} else {
+							// fuck it, bye.
+							j = length;
+						}
 					}
 
 					if (wordCount < ideal * 3) {

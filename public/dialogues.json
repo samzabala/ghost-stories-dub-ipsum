@@ -384,7 +384,7 @@
 		"severity": 1
 	},
 	{
-		"text": "What the hell color should I ask for then? \"Answer 'red' and blood will rain from the ceiling, and you'll turn all red.\" Ok that's gross. \"Answer 'blue', and you'll turn blue because you'll be strangled.\" These are our options?!",
+		"text": "What the hell color should I ask for then? \"Answer 'red' and blood will rain from the ceiling, and you'll turn all red.\" Ok, that's gross. \"Answer 'blue', and you'll turn blue because you'll be strangled.\" These are our options?!",
 		"severity": 2
 	},
 	{
@@ -996,7 +996,7 @@
 		"severity": 1
 	},
 	{
-		"text": "Oh, came on, Keiichirou. They just took your lunch money this time. They didn't fold you up and put you in a locker again.",
+		"text": "Oh, come on, Keiichirou. They just took your lunch money this time. They didn't fold you up and put you in a locker again.",
 		"severity": 1
 	},
 	{
@@ -2523,7 +2523,7 @@
 		"severity": 1
 	},
 	{
-		"text": "I met BJ Bridget in the woods for our Wednesday usual and I found something even more interesting in the animal graveyard. You're a rabbit necrophiliac?",
+		"text": "I met BJ Bridget in the woods for our Wednesday, usual and I found something even more interesting in the animal graveyard. You're a rabbit necrophiliac?",
 		"severity": 3
 	},
 	{
@@ -3579,7 +3579,7 @@
 		"severity": 1
 	},
 	{
-		"text": "I'm confused, did you look under C, or did you look under N, I never get those things right. I hate them. Oh? No, not N's or C's, hospitals and nurses and stuff! Bad memories.",
+		"text": "I'm confused, did you look under C or did you look under N? I never get those things right. I hate them. Oh? No, not N's or C's, hospitals and nurses and stuff! Bad memories.",
 		"severity": 1
 	},
 	{
@@ -3675,7 +3675,7 @@
 		"severity": 3
 	},
 	{
-		"text": "If you lay even a finger on Keiichirou, I'll kick your ass you HMO homo!",
+		"text": "If you lay even a finger on Keiichirou, I'll kick your ass you, HMO homo!",
 		"severity": 3
 	},
 	{
@@ -3843,7 +3843,7 @@
 		"severity": 1
 	},
 	{
-		"text": "Hey, hey, hey, watch your hands Leo!",
+		"text": "Hey, hey, hey, watch your hands, Leo!",
 		"severity": 1
 	},
 	{
@@ -4059,6 +4059,10 @@
 		"severity": 1
 	},
 	{
+		"text": "Yeah, can you believe you won first place with that?",
+		"severity": 1
+	},
+	{
 		"text": "I put that jackass to spiritual sleep. How'd he wake up?",
 		"severity": 2
 	},
@@ -4155,7 +4159,7 @@
 		"severity": 2
 	},
 	{
-		"text": "You get Maria! Stop him my hands are full! Hehheh! Hurry, Mom, I mean, girl!",
+		"text": "You get Maria! Stop him my hands are full! Heh heh! Hurry, Mom, I mean, girl!",
 		"severity": 1
 	},
 	{
@@ -4243,7 +4247,7 @@
 		"severity": 1
 	},
 	{
-		"text": "Oh man is Geico gonna screw me now!",
+		"text": "Oh man, is Geico gonna screw me now!",
 		"severity": 1
 	},
 	{
@@ -4267,7 +4271,7 @@
 		"severity": 0
 	},
 	{
-		"text": "Not to mention ghosts don't come out in the afternoon, do they? Chuckles. I said, come out.",
+		"text": "Not to mention ghosts don't come out in the afternoon, do they? I said, \"come out.\"",
 		"severity": 1
 	},
 	{
@@ -4287,7 +4291,7 @@
 		"severity": 1
 	},
 	{
-		"text": "Just my luck… A Greta Garbo ghost. \"A vant to be alone.\"",
+		"text": "Just my luck… A Greta Garbo ghost. \"A vant to be alone.\" Chuckles.",
 		"severity": 1
 	},
 	{
@@ -4403,8 +4407,8 @@
 		"severity": 1
 	},
 	{
-		"text": "Momoko, dahling! Dahling! dahling, sorry, the meehting ran late. You never sleep with me either. That goddamn company!",
-		"severity": 1
+		"text": "Momoko, dahling! Dahling! Dahling, sorry, the meehting ran late. You never sleep with me either. That goddamn company!",
+		"severity": 0
 	},
 	{
 		"text": "Miffer and Miffes Koihakubo. Oh what?! As you gan hee, your faughter is in a hangerous ftate, sho we'll moob her to the inhenhiv care yumit.",
@@ -4412,7 +4416,7 @@
 	},
 	{
 		"text": "My poor little dahling. I'm… Leaving you, Harold.",
-		"severity": 1
+		"severity": 0
 	},
 	{
 		"text": "Wait! Are you a very close friend of hers? Yes, I am! What happened to my chin?",
@@ -4427,7 +4431,7 @@
 		"severity": 1
 	},
 	{
-		"text": "You think \"I think I did the spell wrong\" is gonna work on me?",
+		"text": "You think, \"I think I did the spell wrong,\" is gonna work on me?",
 		"severity": 1
 	},
 	{
@@ -4859,7 +4863,7 @@
 		"severity": 3
 	},
 	{
-		"text": "So my three friends wound up being just fine. She had the worst body odor. I hate that. Misono had that obnoxious laugh and one day after 6th period, I just got sick of it and smacked her in the face. That ended that friendship. And Tomomi was sent off to military school because she…",
+		"text": "So my three friends wound up being just fine. I never talked to Aya again. She had the worst body odor. I hate that. Misono had that obnoxious laugh and one day after 6th period, I just got sick of it and smacked her in the face. That ended that friendship. And Tomomi was sent off to military school because she…",
 		"severity": 1
 	},
 	{
@@ -5219,7 +5223,7 @@
 		"severity": 0
 	},
 	{
-		"text": "Looks like it's you and me, Raggedy Ann. Ventriloquist, Call me Barbie! Okay. Looks like it's you and me, Barbie. I'm going fucking crazy.",
+		"text": "Looks like it's you and me, Raggedy Ann. Call me Barbie! Okay. Looks like it's you and me, Barbie. I'm going fucking crazy.",
 		"severity": 2
 	},
 	{
@@ -5343,7 +5347,7 @@
 		"severity": 2
 	},
 	{
-		"text": "The number you have dialed s no longer in service. Hey, maybe If they'd paid their fuckin' phone bill you could call again!",
+		"text": "The number you have dialed is no longer in service. Hey, maybe If they'd paid their fuckin' phone bill you could call again!",
 		"severity": 2
 	},
 	{
@@ -5607,7 +5611,7 @@
 		"severity": 1
 	},
 	{
-		"text": "\"Price-half Macy's Days Sale.\" No you idiot! The other headline!! \"Yuki Shirogane, age ten, stumbled plunged into the lake, and died. Forty years ago.\" They forgot to say \"popular!\"",
+		"text": "\"Price-half Macy's Days Sale.\" No you idiot! The other headline!! \"Yuki Shirogane, age ten, stumbled plunged into the lake and died. Forty years ago.\" They forgot to say \"popular!\"",
 		"severity": 0
 	},
 	{
@@ -6059,7 +6063,7 @@
 		"severity": 2
 	},
 	{
-		"text": "Uh-uh! Let's seee… Uh-uh! oooh… Uh-uh! Oh, my… Definitely a ten.",
+		"text": "Uh-uh! Let's see… Uh-uh! oooh… Uh-uh! Oh, my… Definitely a ten.",
 		"severity": 2
 	},
 	{
@@ -6099,7 +6103,7 @@
 		"severity": 2
 	},
 	{
-		"text": "I heard about this liberal-like broadcast. You're not goin' NPR on me are you?",
+		"text": "I heard about this liberal-like broadcast. You're not goin' NPR on me, are you?",
 		"severity": 1
 	},
 	{
@@ -6275,7 +6279,7 @@
 		"severity": 2
 	},
 	{
-		"text": "I may be a successful doctor, but first and foremost I'm a Jew.",
+		"text": "I may be a successful doctor, but first and foremost, I'm a Jew.",
 		"severity": 3
 	},
 	{
