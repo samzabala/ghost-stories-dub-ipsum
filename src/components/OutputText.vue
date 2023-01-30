@@ -18,13 +18,15 @@
 						v-model="paragraphs"
 						ref="pootpoot"
 					></textarea>
-					<button
-						:class="[copied ? 'button-period' : 'button-special']"
-						class="button-is-small template-block-output-text-copy"
-						@click.prevent="copyShits"
-					>
-						{{ copied ? "Oh yea, it's copied!" : 'Copy to clipboard' }}
-					</button>
+					<div class="template-block-output-text-copy">
+						<button
+							:class="[copied ? 'button-period' : 'button-special']"
+							class="button-is-small template-block-output-text-copy-butt"
+							@click.prevent="copyShits"
+						>
+							{{ copied ? "Oh yea, it's copied!" : 'Copy to clipboard' }}
+						</button>
+					</div>
 				</div>
 			</template>
 			<template v-else>

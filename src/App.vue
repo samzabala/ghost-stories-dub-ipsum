@@ -62,8 +62,6 @@ export default {
 			this.severity = shits.severity;
 			this.isolateSeverity = shits.isolateSeverity;
 			this.forceUpdate = shits.forceUpdate;
-
-			this.$root.$emit('render-shits');
 		},
 	},
 };

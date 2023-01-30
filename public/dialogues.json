@@ -52,12 +52,20 @@
 		"severity": 0
 	},
 	{
+		"text": "Hey, isn't that the statue of Kinjiro Ninomiya?",
+		"severity": 1
+	},
+	{
 		"text": "Ass.",
 		"severity": 2
 	},
 	{
 		"text": "Our Father in Heaven, hallowed by Thy name. Thy kingdom come, Thy will be done on Earth as it is in…",
 		"severity": 3
+	},
+	{
+		"text": "Hey, Hardy boy, let's just get outta here.",
+		"severity": 1
 	},
 	{
 		"text": "I don't care about your cat, he's probably dead.",
@@ -1575,6 +1583,10 @@
 		"severity": 1
 	},
 	{
+		"text": "They're heeerrrreeee!",
+		"severity": 1
+	},
+	{
 		"text": "Back! Evil Spirit, begone!",
 		"severity": 1
 	},
@@ -2151,7 +2163,7 @@
 		"severity": 2
 	},
 	{
-		"text": "Bad internet dreams. I'm being punished for all those hours online.",
+		"text": "Instead, I'm in a field of dreams! Bad internet dreams. I'm being punished for all those hours online.",
 		"severity": 1
 	},
 	{
@@ -2707,7 +2719,7 @@
 		"severity": 1
 	},
 	{
-		"text": "Hey, man, if you squint it looks like a clown. Shut up. You are here. And you're an idiot. You are here. And you're an idiot. Uh, but it does look like a clown.",
+		"text": "Hey, man, if you squint it looks like a clown. Shut up. You are here. And you're an idiot. Uh, but it does look like a clown.",
 		"severity": 1
 	},
 	{
@@ -2827,11 +2839,7 @@
 		"severity": 1
 	},
 	{
-		"text": "God, can you go bomb an abortion clinic or something?",
-		"severity": 3
-	},
-	{
-		"text": "You just wait, when that wonderful president finishes stacking the Supreme Court, we won't have to!",
+		"text": "God, can you go bomb an abortion clinic or something? You just wait, when that wonderful president finishes stacking the Supreme Court, we won't have to!",
 		"severity": 3
 	},
 	{
@@ -3021,6 +3029,10 @@
 	{
 		"text": "My results came back negative. I was clean. And then… Yep! Would'ncha know… BA-YAM!",
 		"severity": 0
+	},
+	{
+		"text": "And I missed E!",
+		"severity": 1
 	},
 	{
 		"text": "He's negative and then gets hit by a semi? Where is God?",
@@ -3695,7 +3707,7 @@
 		"severity": 1
 	},
 	{
-		"text": "Floating Florence Nightingale here, she's only coming to give you a little message. Don't feel bad about bailin' on Mommie Dearest.",
+		"text": "Floating Florence Nightingale here, she's only coming to give you a little message. Don't feel bad about bailin' on Mommy Dearest.",
 		"severity": 1
 	},
 	{
@@ -3873,6 +3885,10 @@
 	{
 		"text": "Short Bus is right!",
 		"severity": 3
+	},
+	{
+		"text": "Someone call Artforum.",
+		"severity": 1
 	},
 	{
 		"text": "Does this mean that what's happening in real life is going to show up in Satsuki's painting?! Could you draw me getting a nice Jewish girl and a lap dance?!",
@@ -4871,6 +4887,10 @@
 		"severity": 1
 	},
 	{
+		"text": "I heard he got this really awful copper crotch rocket. And one day when he was out on a road trip, he got abducted by some gay Hell's Angels and was Never Seen Again.",
+		"severity": 1
+	},
+	{
 		"text": "Have you men noticed? How huge my box looks in these new uniforms? Well, that's nice to know.",
 		"severity": 1
 	},
@@ -4959,7 +4979,7 @@
 		"severity": 3
 	},
 	{
-		"text": "Where is your right-wing Christianity? You have to help us. For the gipper!!",
+		"text": "Where is your right-wing Christianity? You have to help us. For the Gipper!!",
 		"severity": 3
 	},
 	{
@@ -5187,7 +5207,7 @@
 		"severity": 1
 	},
 	{
-		"text": "Just a moment, please Bob Vila.",
+		"text": "Just a moment, please Bob Villa.",
 		"severity": 1
 	},
 	{
@@ -6131,6 +6151,10 @@
 		"severity": 1
 	},
 	{
+		"text": "Please stay tuned for probably the hottest homosexual newscaster on the planet, my friend, Anderson Cooper.",
+		"severity": 0
+	},
+	{
 		"text": "What would Nancy Grace make of this?!",
 		"severity": 1
 	},
@@ -6331,7 +6355,7 @@
 		"severity": 0
 	},
 	{
-		"text": "Shrieks! My product! Shrieks! Your face! Shrieks! You again! Shrieks! Make it stop! Make it stop!",
+		"text": "Shrieks! My product! Shrieks! Your face! Shrieks! Her face! Shrieks! You again! Shrieks! Make it stop! Make it stop! Get out!",
 		"severity": 1
 	},
 	{
@@ -6355,7 +6379,7 @@
 		"severity": 1
 	},
 	{
-		"text": "Idiot!",
+		"text": "Did you lose your scarf?! Uh-huh... Idiot!!",
 		"severity": 1
 	},
 	{
@@ -6520,7 +6544,7 @@
 	},
 	{
 		"text": "Misono… Aya… Chow Yun Phat? Keiichirou Sob™. What are you doing here? With knives? Coming closer? To me?",
-		"severity": 3
+		"severity": 1
 	},
 	{
 		"text": "Put her down! I'll hit you in the nuts! Good suggestion.",
@@ -6693,6 +6717,14 @@
 	{
 		"text": "Hey, stupid! The Taco Bell!",
 		"severity": 0
+	},
+	{
+		"text": "Well it's not Krakatoa, ya stupid Chaleria. That's my power!",
+		"severity": 1
+	},
+	{
+		"text": "Game over. Game over, man. Hey, girlie, my eyes are up here.",
+		"severity": 1
 	},
 	{
 		"text": "Why am I doing this? It's not faithful to my character arc. Oh well, I'm getting paid for this, just better read the script. It's a living. Hiss!",

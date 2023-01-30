@@ -57,6 +57,13 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Version Logs
 
+1.1
+
+-   You bitches think im finished with the whole caffeine already? hell no bitch it's still sunday fundayyyyy and its 10pm
+-   Updated more dialogues and pop culture reference spellings
+-   UI improvements
+-   I hate content scraping
+
 1.0.2
 
 -   Slightly more Christian Slater slander.

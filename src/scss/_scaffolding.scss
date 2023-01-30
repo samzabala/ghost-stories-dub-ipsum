@@ -18,7 +18,6 @@ body {
 	min-width: 320px;
 	background-attachment: fixed;
 	accent-color: var(--c-primary);
-	// hyphens: auto;
 
 	// font-size: 18px;
 	line-height: 1.875;
@@ -29,10 +28,9 @@ body {
 		/* Safari fix */
 		overflow-y: scroll;
 		overflow-x: hidden;
-		hyphens: auto;
 	}
 
-	@media (min-width: 1280px) {
+	@media (min-width: 1200px) {
 		background-image:
 			// repeating-linear-gradient(
 			// 	to right,
@@ -138,11 +136,11 @@ h1 {
 }
 
 h2 {
-	font-size: 2.25em;
+	font-size: 2.5em;
 	color: var(--c-accent);
 
 	@media (min-width: 768px) {
-		font-size: 2.5em;
+		font-size: 3em;
 	}
 }
 
@@ -354,6 +352,7 @@ label {
 	font-style: italic;
 	text-align: right;
 	margin-top: 0.5em;
+	font-size: 0.875em;
 
 	&-error {
 		color: var(--c-primary);
