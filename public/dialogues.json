@@ -32,6 +32,10 @@
 		"severity": 1
 	},
 	{
+		"text": "Goodbye, Daddy!",
+		"severity": 1
+	},
+	{
 		"text": "Keiichirou gibberish!",
 		"severity": 1
 	},
@@ -76,7 +80,7 @@
 		"severity": 1
 	},
 	{
-		"text": "I can only hope she knew about Jesus. But what if you're Jew…",
+		"text": "I can only hope she knew about Jesus. B… what if you're Jew…",
 		"severity": 3
 	},
 	{
@@ -84,7 +88,7 @@
 		"severity": 1
 	},
 	{
-		"text": "Shut up! who you callin' a dog? Kids.",
+		"text": "Shut up! who you callin' a dog?",
 		"severity": 1
 	},
 	{
@@ -220,7 +224,7 @@
 		"severity": 1
 	},
 	{
-		"text": "You still haven't told me what you're gonna do with that. Whatever. Just fill the hole, hole filler. Sure, jackass.",
+		"text": "And… the well? You still haven't told me what you're gonna do with that. Whatever. Just fill the hole, hole filler. Sure, jackass.",
 		"severity": 2
 	},
 	{
@@ -232,15 +236,15 @@
 		"severity": 1
 	},
 	{
-		"text": "I can't believe our sweet precious cat is now possessed by a Keebler elf reject… with bad gas.",
-		"severity": 1
-	},
-	{
 		"text": "Get out of my cat you fat stinky ugly demon.",
 		"severity": 3
 	},
 	{
 		"text": "Quit following us! You two morons are just walking in front of me. Watch for dogs.",
+		"severity": 1
+	},
+	{
+		"text": "I can't believe our sweet precious cat is now possessed by a Keebler elf reject… with bad gas.",
 		"severity": 1
 	},
 	{
@@ -5791,7 +5795,7 @@
 		"severity": 0
 	},
 	{
-		"text": "Steve Martin I forgive because he at least uses his suck-up paycheck. to pay the bills while he writes well-received novellas, but Eugene Levy's just a Jew! But you're a Jew, Leo.",
+		"text": "Steve Martin I forgive because he at least uses his suck-up paycheck to pay the bills while he writes well-received novellas, but Eugene Levy's just a Jew! But you're a Jew, Leo.",
 		"severity": 3
 	},
 	{
