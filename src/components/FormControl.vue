@@ -51,25 +51,6 @@
 					</select>
 				</div>
 			</div>
-			<div v-if="severity > 1" class="form-group form-group-for-isolate-severity">
-				<label class="label-group">
-					<input
-						v-model="isolateSeverity"
-						name="isolate-severity"
-						id="isolate-severity"
-						type="checkbox"
-						:checked="isolateSeverity"
-					/>
-					<span>
-						Use more quotes from my chosen intensity of problematic.
-						<br />
-						<small>
-							Reduces quotes that are less offensive while omitting the more fucked up
-							ones, yeah.
-						</small>
-					</span>
-				</label>
-			</div>
 			<div class="form-footer">
 				<button
 					class="button-special button-is-large"

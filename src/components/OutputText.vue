@@ -88,9 +88,7 @@ export default {
 			return this.dialogues.filter((dialogue) => {
 				return (
 					dialogue.text &&
-					(!self.severity ||
-						(!self.isolateSeverity && dialogue.severity <= self.severity) ||
-						(self.isolateSeverity && dialogue.severity == self.severity))
+					(!self.severity || !dialogue.severity || dialogue.severity == self.severity)
 				);
 			});
 		},

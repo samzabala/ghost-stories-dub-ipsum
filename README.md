@@ -57,6 +57,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Version Logs
 
+1.2
+-	Overcaffeinated me was crazy
+-	Removed unnecessary fields
+-	dialogue updoots
+
 1.1
 
 -   You bitches think im finished with the whole caffeine already? hell no bitch it's still sunday fundayyyyy and its 10pm
