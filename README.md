@@ -57,6 +57,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Version Logs
 
+1.2.1
+-	wala trip lang
+
 1.2
 -	Overcaffeinated me was crazy
 -	Removed unnecessary fields
