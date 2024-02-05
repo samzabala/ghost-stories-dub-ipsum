@@ -1,45 +1,43 @@
 <template>
-	<div class="template-block template-block-output">
-		<div ref="result">
-			<template v-if="isNotDoneYet">
-				<div
-					class="template-block-output-text template-block-output-text-status template-block-output-text-status-loading"
-				>
-					<blockquote>
-						Hold on, give me a sec... But this hurricane? What are we gonna—
-					</blockquote>
+	<div ref="result" class="template-block template-block-output">
+		<template v-if="isNotDoneYet">
+			<div
+				class="template-block-output-text template-block-output-text-status template-block-output-text-status-loading"
+			>
+				<blockquote>
+					Hold on, give me a sec... But this hurricane? What are we gonna—
+				</blockquote>
+			</div>
+		</template>
+		<template v-else>
+			<template v-if="num > 0">
+				<div class="template-block-output-text">
+					<textarea
+						class="template-block-output-text-area"
+						readonly
+						v-model="paragraphs"
+						ref="pootpoot"
+					></textarea>
+					<div class="template-block-output-text-copy">
+						<button
+							:class="[copied ? 'button-period' : 'button-special']"
+							class="button-is-small template-block-output-text-copy-butt"
+							@click.prevent="copyShits"
+						>
+							{{ copied ? "Oh yea, it's copied!" : 'Copy to clipboard' }}
+						</button>
+					</div>
 				</div>
 			</template>
 			<template v-else>
-				<template v-if="num > 0">
-					<div class="template-block-output-text">
-						<textarea
-							class="template-block-output-text-area"
-							readonly
-							v-model="paragraphs"
-							ref="pootpoot"
-						></textarea>
-						<div class="template-block-output-text-copy">
-							<button
-								:class="[copied ? 'button-period' : 'button-special']"
-								class="button-is-small template-block-output-text-copy-butt"
-								@click.prevent="copyShits"
-							>
-								{{ copied ? "Oh yea, it's copied!" : 'Copy to clipboard' }}
-							</button>
-						</div>
-					</div>
-				</template>
-				<template v-else>
-					<div class="template-block-output-text template-block-output-text-status">
-						<blockquote>
-							Nothing yet. Gimme something to work with first. See that cute form up
-							there? Hell yeah, fill it up bitch.
-						</blockquote>
-					</div>
-				</template>
+				<div class="template-block-output-text template-block-output-text-status">
+					<blockquote>
+						Nothing yet. Gimme something to work with first. See that cute form up
+						there? Hell yeah, fill it up bitch.
+					</blockquote>
+				</div>
 			</template>
-		</div>
+		</template>
 	</div>
 </template>
 <script>
@@ -223,11 +221,9 @@ export default {
 
 			this.isNotDoneYet = false;
 
-			console.log( this.$refs.result )
-
 			this.$refs.result.scrollIntoView({
 				// block: 'start',
-				behavior: 'smooth'
+				behavior: 'smooth',
 			});
 		},
 	},

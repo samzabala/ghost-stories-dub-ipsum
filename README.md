@@ -57,13 +57,21 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # Version Logs
 
+1.2.2
+
+- so this was also bothering me
+-  wala trip lang
+- dialogue updoots
+
 1.2.1
--	wala trip lang
+
+-   wala trip lang
 
 1.2
--	Overcaffeinated me was crazy
--	Removed unnecessary fields
--	dialogue updoots
+
+-   Overcaffeinated me was crazy
+-   Removed unnecessary fields
+-   dialogue updoots
 
 1.1
 
